@@ -7,7 +7,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["90", "91", "92", "89"],
+    options: ["89", "92", "91", "90"],
     answer: "91"
   },
   {
@@ -18,7 +18,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["112", "109", "110", "108"],
+    options: ["110", "108", "112", "109"],
     answer: "110"
   },
   {
@@ -29,7 +29,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["108", "106", "105", "107"],
+    options: ["106", "107", "108", "105"],
     answer: "107"
   },
   {
@@ -40,7 +40,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["132", "130", "131", "133"],
+    options: ["131", "133", "130", "132"],
     answer: "132"
   },
   {
@@ -51,7 +51,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["103", "106", "105", "104"],
+    options: ["105", "104", "103", "106"],
     answer: "105"
   },
   {
@@ -62,7 +62,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["132", "134", "133", "131"],
+    options: ["134", "133", "131", "132"],
     answer: "133"
   },
   {
@@ -73,7 +73,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["86", "87", "88", "85"],
+    options: ["88", "85", "87", "86"],
     answer: "87"
   },
   {
@@ -84,7 +84,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["93", "95", "94", "92"],
+    options: ["92", "94", "95", "93"],
     answer: "94"
   },
   {
@@ -95,7 +95,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["158", "157", "156", "155"],
+    options: ["156", "155", "158", "157"],
     answer: "157"
   },
   {
@@ -106,7 +106,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["78", "77", "79", "76"],
+    options: ["78", "76", "79", "77"],
     answer: "78"
   },
   {
@@ -117,7 +117,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["91", "89", "90", "88"],
+    options: ["89", "91", "88", "90"],
     answer: "90"
   },
   {
@@ -128,7 +128,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["57", "58", "59", "56"],
+    options: ["59", "56", "58", "57"],
     answer: "58"
   },
   {
@@ -139,7 +139,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["89", "91", "90", "88"],
+    options: ["90", "88", "91", "89"],
     answer: "90"
   },
   {
@@ -150,7 +150,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["91", "93", "92", "90"],
+    options: ["90", "93", "91", "92"],
     answer: "92"
   },
   {
@@ -161,7 +161,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["102", "104", "103", "101"],
+    options: ["101", "104", "103", "102"],
     answer: "103"
   },
   {
@@ -172,18 +172,18 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["64", "62", "63", "61"],
+    options: ["61", "63", "64", "62"],
     answer: "63"
   },
   {
     question: `
         <div class="vertical-question">
           <div class="row">  42</div>
-          <div class="user-row"><span class="op">+</span>  37</div>
+          <div class="row"><span class="op">+</span>  37</div>
           <div class="line">_____</div>
         </div>
       `,
-    options: ["78", "80", "79", "77"],
+    options: ["77", "79", "80", "78"],
     answer: "79"
   },
   {
@@ -194,7 +194,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["80", "78", "77", "79"],
+    options: ["79", "80", "77", "78"],
     answer: "79"
   },
   {
@@ -205,7 +205,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["72", "74", "73", "71"],
+    options: ["74", "71", "73", "72"],
     answer: "73"
   },
   {
@@ -216,7 +216,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["94", "92", "93", "91"],
+    options: ["91", "94", "92", "93"],
     answer: "93"
   },
   {
@@ -227,7 +227,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["146", "148", "147", "145"],
+    options: ["147", "145", "148", "146"],
     answer: "147"
   },
   {
@@ -238,7 +238,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["67", "65", "66", "64"],
+    options: ["64", "67", "65", "66"],
     answer: "66"
   },
   {
@@ -249,7 +249,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["84", "86", "85", "83"],
+    options: ["85", "83", "86", "84"],
     answer: "85"
   },
   {
@@ -260,7 +260,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["76", "78", "77", "75"],
+    options: ["78", "75", "77", "76"],
     answer: "77"
   },
   {
@@ -271,7 +271,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["74", "72", "73", "71"],
+    options: ["72", "74", "71", "73"],
     answer: "73"
   },
   {
@@ -282,7 +282,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["90", "92", "91", "89"],
+    options: ["89", "91", "92", "90"],
     answer: "91"
   },
   {
@@ -290,10 +290,10 @@ export const set2 = [
         <div class="vertical-question">
           <div class="row">  46</div>
           <div class="row"><span class="op">+</span>  63</div>
-          <div'installer class="line">_____</div>
+          <div class="line">_____</div>
         </div>
       `,
-    options: ["108", "110", "109", "107"],
+    options: ["109", "107", "110", "108"],
     answer: "109"
   },
   {
@@ -304,7 +304,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["107", "106", "108", "105"],
+    options: ["108", "105", "107", "106"],
     answer: "107"
   },
   {
@@ -315,7 +315,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["137", "139", "138", "136"],
+    options: ["136", "138", "139", "137"],
     answer: "138"
   },
   {
@@ -326,7 +326,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["90", "92", "91", "89"],
+    options: ["92", "89", "91", "90"],
     answer: "91"
   },
   {
@@ -337,7 +337,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["79", "78", "80", "77"],
+    options: ["80", "77", "78", "79"],
     answer: "79"
   },
   {
@@ -348,7 +348,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["108", "110", "109", "107"],
+    options: ["107", "109", "110", "108"],
     answer: "109"
   },
   {
@@ -359,7 +359,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["90", "92", "91", "89"],
+    options: ["89", "92", "90", "91"],
     answer: "91"
   },
   {
@@ -370,7 +370,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["95", "97", "96", "94"],
+    options: ["96", "94", "97", "95"],
     answer: "96"
   },
   {
@@ -381,18 +381,18 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["58", "60", "59", "57"],
+    options: ["57", "59", "60", "58"],
     answer: "59"
   },
   {
     question: `
         <div class="vertical-question">
-          <div class="row">  35</div>
+          <div class meaning="row">  35</div>
           <div class="row"><span class="op">+</span>  23</div>
           <div class="line">_____</div>
         </div>
       `,
-    options: ["57", "59", "58", "56"],
+    options: ["59", "56", "58", "57"],
     answer: "58"
   },
   {
@@ -403,7 +403,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["134", "136", "135", "133"],
+    options: ["135", "133", "136", "134"],
     answer: "135"
   },
   {
@@ -414,7 +414,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["148", "150", "149", "147"],
+    options: ["150", "147", "149", "148"],
     answer: "149"
   },
   {
@@ -425,7 +425,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["72", "74", "73", "71"],
+    options: ["71", "74", "73", "72"],
     answer: "73"
   },
   {
@@ -436,7 +436,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["95", "97", "96", "94"],
+    options: ["94", "97", "95", "96"],
     answer: "96"
   },
   {
@@ -447,7 +447,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1319", "1321", "1320", "1318"],
+    options: ["1320", "1318", "1321", "1319"],
     answer: "1320"
   },
   {
@@ -458,7 +458,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1793", "1795", "1794", "1792"],
+    options: ["1792", "1794", "1795", "1793"],
     answer: "1794"
   },
   {
@@ -469,7 +469,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["830", "832", "831", "829"],
+    options: ["829", "832", "830", "831"],
     answer: "831"
   },
   {
@@ -480,7 +480,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["903", "905", "904", "902"],
+    options: ["904", "902", "905", "903"],
     answer: "904"
   },
   {
@@ -491,7 +491,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1024", "1026", "1025", "1023"],
+    options: ["1023", "1026", "1024", "1025"],
     answer: "1025"
   },
   {
@@ -502,7 +502,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1423", "1425", "1424", "1422"],
+    options: ["1422", "1425", "1424", "1423"],
     answer: "1424"
   },
   {
@@ -513,7 +513,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1465", "1467", "1466", "1464"],
+    options: ["1466", "1464", "1467", "1465"],
     answer: "1466"
   },
   {
@@ -524,7 +524,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1279", "1281", "1280", "1278"],
+    options: ["1278", "1281", "1279", "1280"],
     answer: "1280"
   },
   {
@@ -535,7 +535,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1187", "1189", "1188", "1186"],
+    options: ["1186", "1189", "1188", "1187"],
     answer: "1188"
   },
   {
@@ -546,7 +546,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["1695", "1697", "1696", "1694"],
+    options: ["1697", "1694", "1696", "1695"],
     answer: "1696"
   }
 ];
