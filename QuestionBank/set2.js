@@ -172,7 +172,7 @@ export const set2 = [
           <div class="line">_____</div>
         </div>
       `,
-    output: ["64", "62", "63", "61"],
+    options: ["64", "62", "63", "61"],
     answer: "63"
   },
   {
