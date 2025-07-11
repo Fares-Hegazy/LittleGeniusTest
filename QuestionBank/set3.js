@@ -7,7 +7,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["7623", "7625", "7624", "7622"],
+    options: ["7624", "7319", "7942", "7685"],
     answer: "7624"
   },
   {
@@ -18,7 +18,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["12948", "12950", "12949", "12947"],
+    options: ["12647", "12949", "12431", "12782"],
     answer: "12949"
   },
   {
@@ -29,7 +29,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["9769", "9767", "9768", "9770"],
+    options: ["9768", "9514", "9827", "9635"],
     answer: "9768"
   },
   {
@@ -40,7 +40,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["14573", "14574", "14575", "14572"],
+    options: ["14219", "14574", "14863", "14128"],
     answer: "14574"
   },
   {
@@ -51,7 +51,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["14838", "14837", "14836", "14839"],
+    options: ["14692", "14941", "14358", "14837"],
     answer: "14837"
   },
   {
@@ -62,7 +62,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["6185", "6187", "6186", "6188"],
+    options: ["6427", "6186", "6359", "6293"],
     answer: "6186"
   },
   {
@@ -73,7 +73,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["8956", "8955", "8954", "8957"],
+    options: ["8712", "9146", "8955", "8824"],
     answer: "8955"
   },
   {
@@ -84,7 +84,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["9278", "9280", "9279", "9281"],
+    options: ["9279", "9043", "9187", "9362"],
     answer: "9279"
   },
   {
@@ -95,7 +95,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["9156", "9155", "9154", "9157"],
+    options: ["9371", "9284", "9462", "9155"],
     answer: "9155"
   },
   {
@@ -106,7 +106,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["5556", "5555", "5554", "5557"],
+    options: ["5555", "5729", "5638", "5417"],
     answer: "5555"
   },
   {
@@ -117,7 +117,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["9054", "9056", "9055", "9057"],
+    options: ["9184", "9055", "9273", "8961"],
     answer: "9055"
   },
   {
@@ -128,7 +128,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["8658", "8657", "8656", "8659"],
+    options: ["8496", "8721", "8657", "8574"],
     answer: "8657"
   },
   {
@@ -139,7 +139,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["7169", "7168", "7167", "7170"],
+    options: ["7241", "7168", "7386", "7052"],
     answer: "7168"
   },
   {
@@ -150,7 +150,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["9466", "9468", "9467", "9469"],
+    options: ["9466", "9578", "9384", "9201"],
     answer: "9466"
   },
   {
@@ -161,7 +161,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["7288", "7290", "7289", "7291"],
+    options: ["7142", "7375", "7219", "7289"],
     answer: "7289"
   },
   {
@@ -172,7 +172,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["9258", "9257", "9256", "9259"],
+    options: ["9418", "9257", "9083", "9176"],
     answer: "9257"
   },
   {
@@ -183,7 +183,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["10455", "10456", "10457", "10458"],
+    options: ["10291", "10456", "10627", "10384"],
     answer: "10456"
   },
   {
@@ -194,7 +194,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["6389", "6388", "6387", "6390"],
+    options: ["6492", "6271", "6388", "6154"],
     answer: "6388"
   },
   {
@@ -205,7 +205,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["6077", "6076", "6078", "6079"],
+    options: ["6077", "6283", "6194", "5962"],
     answer: "6077"
   },
   {
@@ -216,7 +216,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["6069", "6070", "6071", "6068"],
+    options: ["6173", "5948", "6251", "6069"],
     answer: "6069"
   },
   {
@@ -227,7 +227,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["125819", "125820", "125821", "125818"],
+    options: ["125820", "125693", "126012", "125547"],
     answer: "125820"
   },
   {
@@ -238,7 +238,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["177795", "177794", "177793", "177796"],
+    options: ["177942", "177794", "178103", "177458"],
     answer: "177794"
   },
   {
@@ -249,7 +249,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["77130", "77131", "77132", "77129"],
+    options: ["76984", "77263", "77131", "76829"],
     answer: "77131"
   },
   {
@@ -260,7 +260,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["91603", "91604", "91605", "91602"],
+    options: ["91427", "91604", "91895", "91231"],
     answer: "91604"
   },
   {
@@ -271,7 +271,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["99024", "99025", "99026", "99023"],
+    options: ["99025", "98762", "99214", "98638"],
     answer: "99025"
   },
   {
@@ -282,7 +282,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["123259", "123260", "123261", "123258"],
+    options: ["123784", "123109", "123260", "122916"],
     answer: "123260"
   },
   {
@@ -293,7 +293,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["120154", "120155", "120156", "120153"],
+    options: ["120382", "119947", "120628", "120155"],
     answer: "120155"
   },
   {
@@ -304,7 +304,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["100075", "100076", "100077", "100074"],
+    options: ["99812", "100076", "100347", "99729"],
     answer: "100076"
   },
   {
@@ -315,7 +315,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["86179", "86180", "86181", "86178"],
+    options: ["85746", "86429", "86081", "86180"],
     answer: "86180"
   },
   {
@@ -326,7 +326,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["126031", "126032", "126033", "126030"],
+    options: ["125894", "126032", "126387", "125671"],
     answer: "126032"
   },
   {
@@ -337,7 +337,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["154544", "154545", "154546", "154543"],
+    options: ["154692", "154813", "154376", "154545"],
     answer: "154545"
   },
   {
@@ -348,7 +348,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["116787", "116788", "116789", "116786"],
+    options: ["116947", "116524", "116788", "116319"],
     answer: "116788"
   },
   {
@@ -359,7 +359,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["175812", "175813", "175814", "175811"],
+    options: ["175813", "175642", "176091", "175427"],
     answer: "175813"
   },
   {
@@ -370,7 +370,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["148482", "148483", "148484", "148481"],
+    options: ["148729", "148216", "148637", "148483"],
     answer: "148483"
   },
   {
@@ -381,7 +381,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["147825", "147826", "147827", "147824"],
+    options: ["147964", "147581", "147826", "148102"],
     answer: "147826"
   },
   {
@@ -392,7 +392,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["125708", "125709", "125710", "125707"],
+    options: ["125709", "125486", "125927", "125374"],
     answer: "125709"
   },
   {
@@ -403,7 +403,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["154538", "154539", "154540", "154537"],
+    options: ["154821", "154326", "154539", "154683"],
     answer: "154539"
   },
   {
@@ -414,7 +414,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["111486", "111487", "111488", "111485"],
+    options: ["111742", "111395", "111487", "111629"],
     answer: "111487"
   },
   {
@@ -425,7 +425,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["145130", "145131", "145132", "145129"],
+    options: ["145368", "144927", "145131", "145496"],
     answer: "145131"
   },
   {
@@ -436,8 +436,7 @@ export const set3 = [
           <div class="line">_____</div>
         </div>
       `,
-    options: ["164895", "164896", "164897", "164894"],
+    options: ["164729", "165042", "164896", "164581"],
     answer: "164896"
   }
 ];
-//update
