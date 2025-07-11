@@ -7,4 +7,3 @@ export const questionsBank = {
   "Set 2": set2,
   "Set 3": set3,
 };
-//update
