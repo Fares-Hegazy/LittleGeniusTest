@@ -2,12 +2,14 @@ export const set4 = [
   {
     question: `
         <div class="vertical-question">
-          <div class="row">  4387</div>
-          <div class="row"><span class="op">+</span>  3237</div>
+          <div class="row">  6</div>
+          <div class="row">  7</div>
+          <div class="row">  8</div>
+          <div class="row">  9</div>
           <div class="line">_____</div>
         </div>
       `,
-    options: ["7624", "7319", "7942", "7685"],
-    answer: "7624"
+    options: ["28", "25", "30", "36"],
+    answer: "30"
   },
   ];
