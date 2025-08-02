@@ -121,10 +121,3 @@ button:hover {
   align-items: center;
   gap: 10px;
 }
-
-.horizontal-question .answer-blank {
-  display: inline-block;
-  border-bottom: 3px solid black;
-  width: 100px;
-  text-align: center;
-}
