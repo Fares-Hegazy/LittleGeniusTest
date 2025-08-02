@@ -110,3 +110,22 @@ button:hover {
   width: fit-content;
   margin-left: auto;
 }
+
+.horizontal-question {
+  font-family: monospace;
+  font-size: 24px;
+  line-height: 1.5;
+  white-space: nowrap;
+  text-align: left;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.horizontal-question .answer-blank {
+  display: inline-block;
+  border-bottom: 3px solid black;
+  width: 100px;
+  text-align: center;
+}
