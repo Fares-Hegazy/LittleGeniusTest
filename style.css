@@ -96,8 +96,8 @@ button:hover {
 
 .vertical-question {
   font-family: monospace;
-  font-size: 28px;
-  line-height: 1;
+  font-size: 28px;         /* Bigger numbers */
+  line-height: 1;          /* No vertical gap between lines */
   white-space: pre;
   text-align: right;
   margin-bottom: 12px;
@@ -120,10 +120,4 @@ button:hover {
   display: flex;
   align-items: center;
   gap: 10px;
-  flex-wrap: wrap;
-}
-
-.number-term {
-  display: inline-block;
-  white-space: nowrap;
 }
